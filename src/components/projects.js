@@ -25,7 +25,7 @@ class Projects extends Component {
                                     GitHub
                                 </a>
                             </Button>
-                            <Button colored><a href="/" style={{textDecoration:'none', color:'inherit'}}>Link</a></Button>
+                            <Button colored><a href="." style={{textDecoration:'none', color:'inherit'}}>Link</a></Button>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share"/>
