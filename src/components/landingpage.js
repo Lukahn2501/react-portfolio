@@ -12,6 +12,28 @@ class Landing extends Component {
                     alt="avataralt" 
                     className="avatar-img"
                     />
+                    <div className="banner-text">
+                        <h1>Full-Stack (kek) web devlopper</h1>
+                        <hr/>
+                        <p>Skill1/Skill2/Skill3/Skill4</p>
+                        <div className="social-links">
+
+                            {/* LinkedIn */}
+                            <a href="https://www.linkedin.com/in/kevin-roy-71329aa9/" target="_blank" rel="noopener noreferrer">
+                                <i className="fa fa-linkedin-square" aria-hidden="true" />
+                            </a>
+
+                            {/* GitHub */}
+                            <a href="https://github.com/Lukahn2501" target="_blank" rel="noopener noreferrer">
+                                <i className="fa fa-github-square" aria-hidden="true" />
+                            </a>
+
+                            {/* Twitter */}
+                            <a href="https://twitter.com/Lukahn_" target="_blank" rel="noopener noreferrer">
+                                <i className="fa fa-twitter-square" aria-hidden="true" />
+                            </a>
+                        </div>
+                    </div>
                     </Cell>
                 </Grid>
             </div>
