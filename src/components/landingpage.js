@@ -13,9 +13,9 @@ class Landing extends Component {
                     className="avatar-img"
                     />
                     <div className="banner-text">
-                        <h1>Full-Stack (kek) web devlopper</h1>
+                        <h1>Full-Stack Web Developper</h1>
                         <hr/>
-                        <p>Skill1/Skill2/Skill3/Skill4</p>
+                        <p>HTML/CSS | React | NodeJS | SharePoint | .NET </p>
                         <div className="social-links">
 
                             {/* LinkedIn */}
