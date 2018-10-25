@@ -122,3 +122,12 @@
     padding-right: 5rem;
 }
 
+/* 
+    Resume page styling
+*/
+
+.resume-right-col {
+    background: #27221F;
+    color: white;
+    padding: 2em;
+}
